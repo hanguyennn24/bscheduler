@@ -2,6 +2,9 @@
 
 Scheduling Application is a lightweight Flask-based web app for managing employees, collecting availability, and generating schedules. It's designed for small teams in horeca sector in Belgium who need a simple, customizable shift scheduling solution.  The application uses linear programming to minimize total cost.
 
+## New feature
+- Including example data for employees' details
+
 ## Features
 - Support easy scheduling without creating account, or create manager and employee accounts for a company to save the details for next scheduling
 - Schedule according to employee availability, min/max working hours allowed for an employee, wage, and role
@@ -49,5 +52,6 @@ This project is intended for small deployments. For production, run behind a WSG
 ## License
 
 This project is licensed under the MIT License — see `LICENSE` for details.
+
 
 
