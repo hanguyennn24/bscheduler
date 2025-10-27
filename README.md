@@ -11,7 +11,7 @@ Scheduling Application is a lightweight Flask-based web app for managing employe
 - Python 3.9+
 - Flask microframework
 - Minimal client-side JS for UI enhancements
-- Gurobi as LM solver, which requires commercial license for public deployment
+- PuLP as LM solver, which does not require license for public deployment
 
 ## Quickstart (local development)
 
@@ -49,4 +49,5 @@ This project is intended for small deployments. For production, run behind a WSG
 ## License
 
 This project is licensed under the MIT License — see `LICENSE` for details.
+
 
